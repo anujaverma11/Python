@@ -1,0 +1,15 @@
+Python Basics
+S = "<any string>"
+
+which of these is always equal to the given string.
+
+1. s[:]               # always equivalent, as this will select all the chars from string
+2. s+s[0:-1+1]        # (-1 +1) = 0 hence s[0:0] is equivalent to empty string
+3. s[0:]              # selecting from 0 index all the way to end.
+4. s[:-1]             # it will select all the characters but the last one.
+5. s[:3] + s[3:]      # it is selecting first 3 and concatenating it to last three.
+
+
+Finding Strings in Strings
+<string>.find(<string>)
+
