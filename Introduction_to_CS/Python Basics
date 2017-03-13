@@ -13,3 +13,12 @@ which of these is always equal to the given string.
 Finding Strings in Strings
 <string>.find(<string>)
 
+Find will return -1 if no string is returned.
+find returns first index from where the search string starts.
+
+s.find("") - Will always be zero because no matter what the string is, finding empty string will return 0.
+
+finding a string after a particular index
+<string>.find(<string>, <number>)
+
+
