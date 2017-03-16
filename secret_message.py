@@ -3,7 +3,7 @@ import os
 def rename_files() :
   file_list = os.listdir("/Users/anujaverma/Desktop/Nanodegree/NanoDegree/resources/prank")
   print (file_list)
-  saved_path= os.getcwd()
+  saved_path= os.getcwd() #get current working directory
   os.chdir("/Users/anujaverma/Desktop/Nanodegree/NanoDegree/resources/prank")
   for file_name in file_list:
       print("Old Name - " + file_name)
