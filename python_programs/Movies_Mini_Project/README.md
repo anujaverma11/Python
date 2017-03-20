@@ -4,18 +4,18 @@ This Project list movies and let the user click on any listed Movie, to play its
 
 ## Quick start
 
-- Install Python 2.7.11 or highr
+- Install Python 2.7.11 or higher
 - Clone this directory into your local.
 - Make it your working directory
 - on Terminal execute python ./entertainment_center.py
 
-alternatively:
+Alternatively:
 
 open fresh_tomatoes.html in your web browser
 
 ### What's included
 
-Within the download you'll find the following directories and files, logically grouping common assets and providing both compiled and minified variations. You'll see something like this:
+Within the download you'll find the following files:
 
 ```
 Movies_Mini_Project/
