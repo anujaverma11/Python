@@ -8,6 +8,7 @@ Program Name | Functions
 [check_profanity.py](/python_programs/check_profanity.py) | Built in function open(), ".close()" ,
 [check_profanity.py](/python_programs/check_profanity.py) | wdylike for Profanity words, using urllib
 [send_text.py](/python_programs/send_text.py) | Twilio api for sending text messages
+[entertainmen_center.py](/python_programs/entertainmen_center.py) | Defining class and using them.
 
 
 
