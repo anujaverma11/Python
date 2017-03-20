@@ -7,12 +7,10 @@
 
 import webbrowser
 
-
-
 class Movie():
-  """ This is class documentation. """
+  """ This class will contain variables and Methods which are related to Media. """
 
-  VALID_RATINGS = ["G","PG","PG-13","R"] # Class Variable
+  VALID_RATINGS = ["G","PG","PG-13","R"]                    # Class Variable
 
   def __init__(self,movie_title,movie_storyline,poster_image_url,trailer_youtube_url):
     self.title = movie_title
