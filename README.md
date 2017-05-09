@@ -10,6 +10,7 @@ Program Name | Functions
 [send_text.py](/python_programs/send_text.py) | Twilio api for sending text messages
 [entertainmen_center.py](/python_programs/entertainmen_center.py) | Defining class and using them.
 
-
+Course Content
+-
 
 You can find the most download Python packages on the [PyPI Ranking page](http://pypi-ranking.info/alltime).
